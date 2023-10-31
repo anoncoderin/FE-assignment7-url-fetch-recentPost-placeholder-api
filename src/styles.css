@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.post {
+  text-align: left;
+  box-shadow: 0 1px 2px #555;
+  padding: 5px 10px;
+  margin-bottom: 1rem;
+}
+
+.post h3 {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.tagline {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
